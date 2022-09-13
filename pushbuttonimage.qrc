@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>C:/Users/Administrator/Pictures/musicPlayerImageSources/pausepushbutton (2).jpeg</file>
+        <file>C:/Users/Administrator/Pictures/musicPlayerImageSources/pausepushbutton (3).jpeg</file>
+        <file>C:/Users/Administrator/Pictures/musicPlayerImageSources/pausepushbutton.jpeg</file>
+        <file>C:/Users/Administrator/Pictures/musicPlayerImageSources/playpushbutton.jpeg</file>
+        <file>C:/Users/Administrator/Pictures/musicPlayerImageSources/playpushbutton2.jpeg</file>
+    </qresource>
+</RCC>

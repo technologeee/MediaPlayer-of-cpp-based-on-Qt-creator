@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>C:/Users/Administrator/Pictures/musicPlayerImageSources/lastmusicIcon.png</file>
+        <file>C:/Users/Administrator/Pictures/musicPlayerImageSources/nextmusicIcon.png</file>
+        <file>C:/Users/Administrator/Pictures/musicPlayerImageSources/pauseIcon.png</file>
+        <file>C:/Users/Administrator/Pictures/musicPlayerImageSources/playIcon.png</file>
+        <file>C:/Users/Administrator/Pictures/musicPlayerImageSources/LoopIcon.png</file>
+        <file>C:/Users/Administrator/Pictures/musicPlayerImageSources/randomIcon.png</file>
+        <file>C:/Users/Administrator/Pictures/musicPlayerImageSources/thisLoopIcon.png</file>
+        <file>C:/Users/Administrator/Pictures/musicPlayerImageSources/background.png</file>
+    </qresource>
+</RCC>
